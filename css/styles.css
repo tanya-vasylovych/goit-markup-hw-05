@@ -608,6 +608,7 @@ form {
    align-items: center;
    justify-content: center;
    fill: transparent;
+   margin-right: 8px;
 }
 privacy-policy-span:checked {
 background-color: #404bbf;
