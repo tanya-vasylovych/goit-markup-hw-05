@@ -609,7 +609,7 @@ form {
    justify-content: center;
    fill: transparent;
 }
-input:checked {
+privacy-policy-span:checked {
 background-color: #404bbf;
 border: none;
 fill: #f4f4fd;
