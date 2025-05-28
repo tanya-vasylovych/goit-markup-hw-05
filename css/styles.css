@@ -312,8 +312,8 @@ img {display: block;}
    border: 1px solid #ffffff;
    border-radius: 4px;
    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-   width: 264px;
    height: 40px;
+   width: 264px;
    font-size: 12px;
    line-height: 2;
    letter-spacing: 0.04em;
@@ -490,7 +490,7 @@ input::placeholder {
    height: 24px;
    border-radius: 50%;
    display: flex;
-   align-self: center;
+   align-items: center;
    justify-content: center;
 
    background-color: #e7e9fc;
@@ -507,6 +507,7 @@ input::placeholder {
 .modal-close:focus {
    background-color: #404bbf;
    border: none;
+   fill: #ffffff;
 }
 
 .close-icon {
@@ -515,7 +516,7 @@ input::placeholder {
 
 .close-icon:hover,
 .close-icon:focus {
-   fill: #ffffff;
+   
 }
 
 .modal-form {
