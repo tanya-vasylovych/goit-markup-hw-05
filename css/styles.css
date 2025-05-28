@@ -556,7 +556,7 @@ form {
 .form-user-name:focus {
    border-color: #4D5AE5;}
    
-.form-icon-name:focus + .form-icon-name {
+.form-user-name:focus + .form-icon-name {
       fill: #4D5AE5;}
 
 .form-icon-name {
